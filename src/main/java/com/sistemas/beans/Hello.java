@@ -7,4 +7,6 @@ public class Hello {
 	private String gener;
 	private int age;
 	
+	private int edad;
+	
 }
