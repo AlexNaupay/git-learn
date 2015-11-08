@@ -7,4 +7,10 @@ public class Hello {
 	private String gener;
 	private int age;
 	
+	
+	private String city;
+	private String bankName;
+	
+	private int edad;
+	
 }
