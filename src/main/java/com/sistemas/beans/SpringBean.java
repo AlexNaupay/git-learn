@@ -7,6 +7,5 @@ public class SpringBean {
     private String gener;
 
     private String city;
-    private String bankName;
     private String favoriteSinger;
 }
