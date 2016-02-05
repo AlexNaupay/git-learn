@@ -7,6 +7,6 @@ public class Person {
     private String country;
     private int age;
     private short state;
-
+    private String master;
 
 }
