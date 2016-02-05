@@ -8,5 +8,7 @@ public class SpringBean {
 
     private String city;
     private String favoriteSinger;
-    private String favoriteSong;
+    private String favoriteBand;
+    private String favorite1;
+    private String favorite2;
 }
