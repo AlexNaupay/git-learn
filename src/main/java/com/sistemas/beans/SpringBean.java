@@ -10,4 +10,5 @@ public class SpringBean {
     private String favoriteSinger;
     private String favoriteBand;
     private String favorite1;
+    private String favorite2;
 }
