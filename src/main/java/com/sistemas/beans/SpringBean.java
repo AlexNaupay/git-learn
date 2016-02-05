@@ -11,4 +11,5 @@ public class SpringBean {
     private String favoriteBand;
     private String favorite1;
     private String favorite2;
+    private String feature1;
 }
