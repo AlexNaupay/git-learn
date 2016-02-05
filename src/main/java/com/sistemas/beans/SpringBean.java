@@ -7,4 +7,5 @@ public class SpringBean {
     private String gener;
 
     private String city;
+    private boolean isTrue;
 }
