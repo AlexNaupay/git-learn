@@ -12,4 +12,5 @@ public class SpringBean {
     private String favorite1;
     private String favorite2;
     private String feature1;
+    private String feature2;
 }
