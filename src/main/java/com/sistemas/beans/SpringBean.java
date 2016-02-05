@@ -8,4 +8,5 @@ public class SpringBean {
 
     private String city;
     private boolean isTrue;
+    private boolean isTrue2;
 }
